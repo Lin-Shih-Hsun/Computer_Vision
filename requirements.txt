@@ -1,0 +1,5 @@
+opencv-python
+numpy
+matplotlib
+PyQt5
+cv2
