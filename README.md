@@ -29,3 +29,14 @@ $ python Image_Smoothing.py
 <img width="428" alt="截圖 2022-03-27 上午10 25 25" src="https://user-images.githubusercontent.com/91618559/160264171-7a1aa871-26bf-4814-a296-47aedcacbd36.png">
 <img width="428" alt="截圖 2022-03-27 上午10 25 27" src="https://user-images.githubusercontent.com/91618559/160264172-cf008323-0615-4a87-b2ee-1fc6c477fef4.png">
 <img width="428" alt="截圖 2022-03-27 上午10 25 29" src="https://user-images.githubusercontent.com/91618559/160264176-0fe23ccf-24c0-45fe-8a24-b20b09aacfad.png">
+
+## Edge Detection
+
+```bash
+$ python Edge_Detection.py
+```
+<img width="467" alt="截圖 2022-03-28 上午9 26 22" src="https://user-images.githubusercontent.com/91618559/160635168-dc25d303-8486-4d23-8fb1-8bf435af659c.png">
+<img width="710" alt="截圖 2022-03-28 上午9 26 28" src="https://user-images.githubusercontent.com/91618559/160635194-58798be3-964f-45d3-bda2-b39333d4cdad.png">
+<img width="710" alt="截圖 2022-03-28 上午9 26 43" src="https://user-images.githubusercontent.com/91618559/160635206-c3910218-60f2-40a9-b069-41058c7f77db.png">
+<img width="710" alt="截圖 2022-03-28 上午9 26 49" src="https://user-images.githubusercontent.com/91618559/160635212-c8a438ba-eeb0-4358-896d-ed1b6c438025.png">
+<img width="710" alt="截圖 2022-03-28 上午9 26 57" src="https://user-images.githubusercontent.com/91618559/160635217-742a7767-ed12-4f43-98d9-c7845e77ad74.png">
