@@ -1,4 +1,8 @@
 # Computer vision and Image processing
+* **Outline**
+  * Image Processing
+  * Image Smoothing
+  * Edge Detection
 
 ## Image Processing
 
